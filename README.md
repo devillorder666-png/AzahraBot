@@ -1,6 +1,6 @@
-<!-- ================= AZAHRABOT README ================= -->
+<!-- ================= HEHE README ================= -->
 
-<h1 align="center"><b>🤖 AZAHRABOT CORE</b></h1>
+<h1 align="center"><b>🤖 HEHE CORE</b></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=42&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=🚀+Advanced+Multi-Device+WhatsApp+Bot;⚡+Fast+%7C+Secure+%7C+High+Performance;🔥+Developed+By+Azar+Tech" />
